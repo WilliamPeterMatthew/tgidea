@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://tgidea.zhangkaix.ink/exports/kxpm/</id>
   <title>科学泡面的个人想法</title>
-  <updated>2024-03-05T08:19:30.526782+00:00</updated>
+  <updated>2024-03-13T14:12:21.590408+00:00</updated>
   <link href="https://tgidea.zhangkaix.ink/exports/kxpm/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tgidea.zhangkaix.ink/logo.png</logo>
   <subtitle>「每个人都在说，却没有人在听」</subtitle>
+  <entry>
+    <id>26</id>
+    <title>科学泡面的个人想法 #26</title>
+    <updated>2024-03-06T19:09:30+00:00</updated>
+    <content>&lt;p&gt;我当初就是为了wsa升级的win11，结果微软给停了，可恶&lt;/p&gt;</content>
+    <link href="https://tgidea.zhangkaix.ink/exports/kxpm/?post=26" rel="alternate"/>
+  </entry>
   <entry>
     <id>25</id>
     <title>科学泡面的个人想法 #25</title>
